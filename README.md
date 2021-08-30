@@ -1,6 +1,5 @@
 # TUSK lmschell
-![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
-
+![GitHub last commit](https://img.shields.io/github/last-commit/Neelkanth7/TUSK/lmschell?logo=Github&logoColor=%23ff0000)
 
 This is a a readme file for my branch.
 This file contains all information about my completed tasks within our project 1.
