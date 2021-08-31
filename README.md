@@ -3,6 +3,7 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/Neelkanth7/TUSK/total)
 ![GitHub](https://img.shields.io/github/license/Neelkanth7/TUSK?color=%23ff0067)
 [![DOI](https://zenodo.org/badge/401494586.svg)](https://zenodo.org/badge/latestdoi/401494586)
+![Read the Docs](https://img.shields.io/readthedocs/code)
 
 
 This is a a readme file for my branch.
