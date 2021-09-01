@@ -31,7 +31,9 @@ Follow these steps to get __ setup on your local machine
         $ cd TUSK
 - Add your fork as remote to push your work to
 - Create a virtual environment and install the required dependencies
-- Testing
+- Run setup
+- Testing. TBD
+- When ready to submit, raise a pull request and describe the feature/bug fix thoroughly in the description. Also add a link to the issue if relevant
 
 ### Commit guide
 
@@ -46,9 +48,3 @@ In general, the messages must follow the following syntax
     [optional body]
 
     [optional footer(s)]
-
-
-
-
-
-Want to help but don't know where to start? Check out this [list of issues](https://stackoverflow.com/help/minimal-reproducible-example) 
