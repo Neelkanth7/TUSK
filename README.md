@@ -1,4 +1,4 @@
-# TUSK lmschell
+# TUSK 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Neelkanth7/TUSK/lmschell?logo=Github&logoColor=%23ff0000)
 ![GitHub all releases](https://img.shields.io/github/downloads/Neelkanth7/TUSK/total)
 ![GitHub](https://img.shields.io/github/license/Neelkanth7/TUSK?color=%23ff0067)
