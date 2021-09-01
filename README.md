@@ -6,7 +6,6 @@
 ![Read the Docs](https://img.shields.io/readthedocs/code)
 [![Build Status](https://app.travis-ci.com/lorenzs2908/hello-github-actions.svg?branch=main)](https://app.travis-ci.com/lorenzs2908/hello-github-actions)
 
-
 This file displays an example readme file for my our project.
 This file contains all information about our completed tasks within homework 2b.
 
