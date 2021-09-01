@@ -7,7 +7,7 @@
 [![Build Status](https://app.travis-ci.com/lorenzs2908/hello-github-actions.svg?branch=main)](https://app.travis-ci.com/lorenzs2908/hello-github-actions)
 
 
-This is a a readme file for my branch.
-This file contains all information about my completed tasks within our project 1.
+This file displays an example readme file for my our project.
+This file contains all information about our completed tasks within homework 2b.
 
 * This readme file is part of homework 2b of CSC 510 Software Engineering class.
