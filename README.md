@@ -7,7 +7,7 @@
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Neelkanth7/TUSK)
 [![Build Status](https://app.travis-ci.com/lorenzs2908/hello-github-actions.svg?branch=main)](https://app.travis-ci.com/lorenzs2908/hello-github-actions)
 
-This file displays an example readme file for my our project.
+This file displays an example readme file for our project.
 This file contains all information about our completed tasks within homework 2b.
 
 * This readme file is part of homework 2b of CSC 510 Software Engineering class.
