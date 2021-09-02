@@ -10,6 +10,6 @@ date-released: "2021-08-29"
 identifiers:
   - description: First release
     type: doi
-    value: "https://zenodo.org/badge/latestdoi/401146593"
+    value: "10.5281/zenodo.5338968"
 license: Apache-2.0
 repository-code: "https://github.com/Neelkanth7/TUSK"
