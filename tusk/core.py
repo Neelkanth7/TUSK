@@ -20,5 +20,3 @@ def binary_search(a_list, item):
         else:
             return -1
     return -1
-def test_answer():
-    assert binary_search([1, 4, 5, 6, 8, 12], 45) == -1
