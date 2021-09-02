@@ -11,3 +11,22 @@ This file displays an example readme file for our project.
 This file contains all information about our completed tasks within homework 2b.
 
 * This readme file is part of homework 2b of CSC 510 Software Engineering class.
+
+The TUSK python package offers a simple idiomatic implementation of the binary search algorithm
+
+# Installation
+
+The package can be installed by running the command
+```
+pip install .
+```
+in the root directory of the folder
+
+# Usage
+
+```
+from tusk.core import binary_search
+
+binary_search([1, 3, 5], 3)
+```
+`Output: 1`
