@@ -1,4 +1,4 @@
-The following contributing guide has been inspired by [flask](https://github.com/pallets/flask/blob/main/CONTRIBUTING.rst) and 
+The following contributing guide has been inspired by [flask](https://github.com/pallets/flask/blob/main/CONTRIBUTING.rst)
 
 # Contributing guide
 
@@ -23,16 +23,22 @@ For adding new pages, fork the repo, create a branch and submit it as a PR
 
 Make sure you have 
 
-Follow these steps to get __ setup on your local machine
-- Fork the _ repository to your own Github account 
+Follow these steps to get TUSK setup on your local machine
+- Fork the TUSK repository to your own Github account 
 - Clone the repository
 
         $ git clone https://github.com/Neelkanth7/TUSK
         $ cd TUSK
 - Add your fork as remote to push your work to
 - Create a virtual environment and install the required dependencies
-- Run setup
-- Testing. TBD
+- Install the TUSK package by running
+  ```
+      pip install .
+  ```
+- Run tests using the following command
+  ```
+      pytest
+  ```
 - When ready to submit, raise a pull request and describe the feature/bug fix thoroughly in the description. Also add a link to the issue if relevant
 
 ### Commit guide
